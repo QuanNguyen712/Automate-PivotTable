@@ -12,6 +12,8 @@ The given Python code does the job effortlessly with all manual tasks from data 
 
 The renowned Pandas DataFrame also meets the ‘MemoryError’ in loading this data size; Thus, the Vaex library is apply to tackle this shortcoming.
 
+Download the attached [SPFlabels.xlsx file](https://github.com/QuanNguyen712/Automate-PivotTable/raw/main/SPFlabels.xlsx) before running the code as some fixed mapping labels are stored in this file.
+
 **How does it work?**
 
 The goal is to come up with (1) a xlsx. file containing all required metric tables to fit in charts/ tables in the given report template. Moreover, tables are stored in worksheets which are equivalent to the respective slides in the template (2).
