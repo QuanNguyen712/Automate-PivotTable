@@ -17,4 +17,4 @@ The renowned Pandas DataFrame also meets the ‘MemoryError’ in loading this d
 The goal is to come up with (1) a xlsx. file containing all required metric tables to fit in charts/ tables in the given report template. Moreover, tables are stored in worksheets which are equivalent to the respective slides in the template (2).
 
 
-Check out the report template and sample input/ output data for fully understanding.
+Check out the [report template](https://github.com/QuanNguyen712/Automate-PivotTable/blob/main/ShopeeFood_Weekly%20Report%2018%20to%20%2024.09.2023.pdf) and sample input/ output data for fully understanding.
